@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2xzJDy8YQy6WTYYWKiiHFxZ5so4P6rlHQdLlJ6GZIQo=",
+  "Source": "TaskManagementNet6.WebApi",
+  "BasePath": "_content/TaskManagementNet6.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
